@@ -3,7 +3,7 @@
 ### Software Engineering & Management @ McMaster University  
 **Software Developer @ McMaster Interdisciplinary Satellite Team (MIST)**
 
-I enjoy building things where **software meets the real world** — from robotics and embedded systems to data-driven applications and full-stack projects.
+I enjoy building things where **software meets the real world**, from robotics and embedded systems to data-driven applications and full-stack projects.
 
 Currently exploring **software engineering, automation, AI/ML, and intelligent systems** while building projects inside and outside the classroom.
 
