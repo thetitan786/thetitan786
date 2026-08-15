@@ -101,8 +101,8 @@ I'm always looking to learn, build, compete, and collaborate on interesting engi
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Ashmal_Molwani-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-black?style=flat&logo=notion&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Ashmal_Molwani-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ashmal-molwani/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-black?style=flat&logo=notion&logoColor=white)](https://app.notion.com/p/ali-ashmal-molwani/Ali-Ashmal-Molwani-2dd06a4f1928811a8903ea4d8a215e64?source=copy_link)
 
 ---
 
