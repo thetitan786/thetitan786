@@ -93,9 +93,9 @@ Worked in a collaborative Git workflow and helped build a mobile-first interface
 
 ## 🌱 Beyond the Code
 
-I love going to the gym and working out.
-I picked up running as a hobby, achieving a sub-1-hour 10k.
-My favourite sports are badminton, table tennis and paddle. 
+- **I love going to the gym and working out.**
+- **I picked up running as a hobby, achieving a sub-1-hour 10k.**
+- **My favourite sports are badminton, table tennis and paddle.**
 ---
 
 ## 🤝 Connect With Me
